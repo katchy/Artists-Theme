@@ -1,0 +1,356 @@
+---
+"/vagrant/artist_theme/form-success.html":
+  mtime: 2015-05-06 05:28:20.097139400 +00:00
+  deps:
+  - "/vagrant/artist_theme/_includes/analytics.html"
+"/vagrant/artist_theme/index.html":
+  mtime: 2015-05-06 05:28:20.106915800 +00:00
+  deps:
+  - "/vagrant/artist_theme/_includes/analytics.html"
+  - "/vagrant/artist_theme/_includes/header.html"
+  - "/vagrant/artist_theme/_includes/about.html"
+  - "/vagrant/artist_theme/_includes/icons/icon-pencil.html"
+  - "/vagrant/artist_theme/_includes/icons/icon-mouse.html"
+  - "/vagrant/artist_theme/_includes/icons/icon-browser.html"
+  - "/vagrant/artist_theme/_includes/icons/icon-video.html"
+  - "/vagrant/artist_theme/_includes/work.html"
+  - "/vagrant/artist_theme/_includes/icons/icon-back.html"
+  - "/vagrant/artist_theme/_includes/work/proj-1.html"
+  - "/vagrant/artist_theme/_includes/work/proj-2.html"
+  - "/vagrant/artist_theme/_includes/work/proj-3.html"
+  - "/vagrant/artist_theme/_includes/work/proj-4.html"
+  - "/vagrant/artist_theme/_includes/work/proj-5.html"
+  - "/vagrant/artist_theme/_includes/work/proj-6.html"
+  - "/vagrant/artist_theme/_includes/work/proj-7.html"
+  - "/vagrant/artist_theme/_includes/work/proj-8.html"
+  - "/vagrant/artist_theme/_includes/clients.html"
+  - "/vagrant/artist_theme/_includes/icons/icon-quote-mark.html"
+  - "/vagrant/artist_theme/_includes/icons/icon-next.html"
+  - "/vagrant/artist_theme/_includes/icons/icon-prev.html"
+  - "/vagrant/artist_theme/_includes/contact.html"
+  - "/vagrant/artist_theme/_includes/form.html"
+  - "/vagrant/artist_theme/_includes/footer.html"
+"/vagrant/artist_theme/work/proj-1.md":
+  mtime: 2015-05-06 20:38:36.238372000 +00:00
+  deps: []
+"/vagrant/artist_theme/work/proj-2.md":
+  mtime: 2015-05-06 20:37:41.606595200 +00:00
+  deps: []
+"/vagrant/artist_theme/work/proj-3.md":
+  mtime: 2015-05-06 20:38:53.067886400 +00:00
+  deps: []
+"/vagrant/artist_theme/work/proj-4.md":
+  mtime: 2015-05-06 20:58:53.064498900 +00:00
+  deps: []
+"/vagrant/artist_theme/work/proj-5.md":
+  mtime: 2015-05-06 20:09:21.931203600 +00:00
+  deps: []
+"/vagrant/artist_theme/work/proj-6.md":
+  mtime: 2015-05-06 20:26:14.239491200 +00:00
+  deps: []
+"/vagrant/artist_theme/work/proj-7.md":
+  mtime: 2015-05-06 20:24:19.682637600 +00:00
+  deps: []
+"/vagrant/artist_theme/work/proj-8.md":
+  mtime: 2015-05-06 05:28:20.866495200 +00:00
+  deps: []
+"/vagrant/artist_theme/LICENSE":
+  mtime: 2015-05-06 05:28:16.466422000 +00:00
+  deps: []
+"/vagrant/artist_theme/README.md":
+  mtime: 2015-05-06 05:28:16.480107500 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/back-btn.png":
+  mtime: 2015-05-06 05:28:18.492944700 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/clients/face-aaroni.jpg":
+  mtime: 2015-05-06 05:28:18.517395500 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/clients/face-atariboy.jpg":
+  mtime: 2015-05-06 05:28:18.537913900 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/clients/face-jackiesaik.jpg":
+  mtime: 2015-05-06 05:28:18.553579000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/clients/face-teleject.jpg":
+  mtime: 2015-05-06 05:28:18.572126400 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/clients/logo1.png":
+  mtime: 2015-05-06 05:28:18.579975000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/clients/logo2.png":
+  mtime: 2015-05-06 05:28:18.590073100 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/clients/logo3.png":
+  mtime: 2015-05-06 05:28:18.598151100 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/clients/logo4.png":
+  mtime: 2015-05-06 05:28:18.607931000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/hero-bg.jpg":
+  mtime: 2015-05-06 06:39:24.553106100 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/logo.svg":
+  mtime: 2015-05-06 05:28:18.664640100 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/the_design.jpg":
+  mtime: 2015-05-06 05:28:18.762400400 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/travitar.jpg":
+  mtime: 2015-05-06 07:33:53.821550500 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-1/img1.jpg":
+  mtime: 2015-05-06 18:37:13.208427200 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-1/img2.jpg":
+  mtime: 2015-05-06 18:23:06.171408800 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-1/img3.jpg":
+  mtime: 2015-05-06 20:30:28.763945100 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-1/img4.jpg":
+  mtime: 2015-05-06 05:28:18.938959500 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-1/img5.jpg":
+  mtime: 2015-05-06 05:28:18.994654700 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-1/thumb.jpg":
+  mtime: 2015-05-06 20:33:30.920299900 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-2/CityIn-AntonSkvortsov.jpg":
+  mtime: 2015-05-06 05:28:19.067982500 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-2/thumb.jpg":
+  mtime: 2015-05-06 20:34:39.818004900 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-3/CrispyIcons-PetrasNargela.jpg":
+  mtime: 2015-05-06 05:28:19.135459600 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-3/Thumbs.db":
+  mtime: 2015-05-06 20:35:23.135000000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-3/thumb.jpg":
+  mtime: 2015-05-06 20:35:22.757013100 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-4/flatmobile-AyoubElred.jpg":
+  mtime: 2015-05-06 05:28:19.227863600 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-4/thumb.jpg":
+  mtime: 2015-05-06 20:57:17.502533900 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-5/freshitup-JieyuXiong.jpg":
+  mtime: 2015-05-06 05:28:19.413618000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-5/thumb.jpg":
+  mtime: 2015-05-06 05:28:19.435117800 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-6/TimeLinePage-SergeyValiukh.jpg":
+  mtime: 2015-05-06 05:28:19.637948300 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-6/thumb.jpg":
+  mtime: 2015-05-06 20:03:57.923253700 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-7/img0.jpg":
+  mtime: 2015-05-06 05:28:19.713236000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-7/img1.jpg":
+  mtime: 2015-05-06 19:06:39.672481100 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-7/img2.jpg":
+  mtime: 2015-05-06 19:06:58.819707400 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-7/img3.jpg":
+  mtime: 2015-05-06 19:07:21.956929300 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-7/img4.jpg":
+  mtime: 2015-05-06 05:28:19.883049200 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-7/thumb.jpg":
+  mtime: 2015-05-06 20:05:26.432136700 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-8/stripes-co-NickZoutendijk.jpg":
+  mtime: 2015-05-06 05:28:19.971013000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-8/thumb.jpg":
+  mtime: 2015-05-06 05:28:19.995964000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/js/functions.js":
+  mtime: 2015-05-06 05:28:20.021733000 +00:00
+  deps: []
+"/vagrant/artist_theme/favicon.ico":
+  mtime: 2015-05-06 05:28:20.074533400 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/analytics.html":
+  mtime: 2015-05-06 05:28:16.553435800 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/Thumbs.db":
+  mtime: 2015-05-06 08:18:40.685000000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/clients/Thumbs.db":
+  mtime: 2015-05-06 06:35:51.232000000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/hero-bg1.jpg":
+  mtime: 2015-05-06 05:28:18.650946200 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/header.html":
+  mtime: 2015-05-06 05:28:16.615998300 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/hero-bg2.jpg":
+  mtime: 2015-05-06 06:33:51.059941700 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/about.html":
+  mtime: 2015-05-06 05:28:16.535832200 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/icons/icon-pencil.html":
+  mtime: 2015-05-06 05:28:16.682698900 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/icons/icon-mouse.html":
+  mtime: 2015-05-06 05:28:16.658063800 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/1.jpg":
+  mtime: 2015-05-06 05:28:18.779991100 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/icons/icon-browser.html":
+  mtime: 2015-05-06 05:28:16.647309700 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/10400221_517230194930_721_n.jpg":
+  mtime: 2015-05-06 08:18:39.217714500 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/31993_552382669090_412894_n.jpg":
+  mtime: 2015-05-06 08:18:03.175728900 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/421417_671055298190_2076945747_n.jpg":
+  mtime: 2015-05-06 07:44:07.666427800 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/icons/icon-video.html":
+  mtime: 2015-05-06 05:28:16.716295900 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/work.html":
+  mtime: 2015-05-06 05:28:16.728005500 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/icons/icon-back.html":
+  mtime: 2015-05-06 05:28:16.633593400 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/work/proj-1.html":
+  mtime: 2015-05-06 19:18:31.566021600 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-1/Screenshot (15).png":
+  mtime: 2015-05-06 18:37:13.208427200 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-1/Screenshot (17).png":
+  mtime: 2015-05-06 18:23:06.171408800 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-1/Screenshot (18).png":
+  mtime: 2015-05-06 18:46:27.043899000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-1/Thumbs.db":
+  mtime: 2015-05-06 20:33:31.243000000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-2/Screenshot (10).png":
+  mtime: 2015-05-06 18:24:23.482152600 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-2/Screenshot (11).png":
+  mtime: 2015-05-06 18:24:45.217159000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-2/Screenshot (7).png":
+  mtime: 2015-04-14 20:35:46.650415400 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-2/Thumbs.db":
+  mtime: 2015-05-06 20:34:40.211000000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-5/Thumbs.db":
+  mtime: 2015-05-06 20:01:27.965000000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-5/WIN_20150106_131510.JPG":
+  mtime: 2015-01-06 21:20:07.112631600 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-5/unnamed (2).jpg":
+  mtime: 2015-05-06 18:20:10.983829200 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-6/IMG_20150106_132106.jpg":
+  mtime: 2015-05-06 18:38:31.520295600 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-6/Thumbs.db":
+  mtime: 2015-05-06 20:26:02.591000000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-7/IMG_20141118_130616.jpg":
+  mtime: 2015-05-06 18:57:02.067038200 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-7/IMG_20141118_130622.jpg":
+  mtime: 2015-05-06 18:38:03.351797100 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-7/IMG_20141118_201944.jpg":
+  mtime: 2015-05-06 18:57:43.601683500 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-7/Thumbs.db":
+  mtime: 2015-05-06 20:23:29.693000000 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/work/proj-2.html":
+  mtime: 2015-05-06 19:19:38.468113200 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-2/img1.jpg":
+  mtime: 2015-05-06 18:24:23.482152600 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-2/img2.jpg":
+  mtime: 2015-05-06 18:24:45.217159000 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-5/img1.jpg":
+  mtime: 2015-05-06 20:01:26.778246500 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-5/thumb.JPG":
+  mtime: 2015-05-06 20:00:46.220601600 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/work/proj-3.html":
+  mtime: 2015-05-06 19:20:44.603411300 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/work/proj-4.html":
+  mtime: 2015-05-06 19:21:20.573399900 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-3/thumb (2).jpg":
+  mtime: 2015-05-06 20:02:46.338733500 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-4/Thumbs.db":
+  mtime: 2015-05-06 20:58:29.965000000 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/work/proj-5.html":
+  mtime: 2015-05-06 05:28:16.790573800 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/priya.jpg":
+  mtime: 2015-05-06 07:44:07.666427800 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-6/img1.jpg":
+  mtime: 2015-05-06 19:03:51.161885400 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-7/img1_short.jpg":
+  mtime: 2015-05-06 20:04:54.123163100 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/work/proj-6.html":
+  mtime: 2015-05-06 05:28:16.802326200 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/work/proj-7.html":
+  mtime: 2015-05-06 05:28:16.814057100 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-2/img3.jpg":
+  mtime: 2015-04-14 20:35:46.650415400 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-3/img1.jpg":
+  mtime: 2015-05-06 20:22:03.123487900 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/work/proj-8.html":
+  mtime: 2015-05-06 05:28:16.825760400 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/clients.html":
+  mtime: 2015-05-06 20:42:26.085436400 +00:00
+  deps: []
+"/vagrant/artist_theme/assets/img/work/proj-4/img1.jpg":
+  mtime: 2015-05-06 20:56:55.752085200 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/icons/icon-quote-mark.html":
+  mtime: 2015-05-06 05:28:16.705520400 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/icons/icon-next.html":
+  mtime: 2015-05-06 05:28:16.670420800 +00:00
+  deps: []
+"/vagrant/artist_theme/_includes/icons/icon-prev.html":
+  mtime: 2015-05-06 05:28:16.693781400 +00:00
+  deps: []

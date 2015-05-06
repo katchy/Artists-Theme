@@ -1,5 +1,5 @@
 ---
-title: Timeline Page
+title: Sketches
 ---
 
-![Timeline Page](assets/img/work/proj-6/TimeLinePage-SergeyValiukh.jpg)
+![Sketches](assets/img/work/proj-6/img1.jpg)

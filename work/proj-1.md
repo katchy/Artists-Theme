@@ -1,12 +1,10 @@
 ---
-title: Typo International Design Talks Stuff
+title: Taste Swing
 ---
 
-![Typo International](assets/img/work/proj-1/img1.jpg)
+![Taste Swing](assets/img/work/proj-1/img3.jpg)
+![Taste Swing](assets/img/work/proj-1/img1.jpg)
 
-TYPO: International Design Talks is an annual event held in Berlin, London, and San Francisco. This promotional project is developed to market the event for the designindustry. The use of patterns, sophisticated color scheme and typography are applied for the print and mobile application.
+Taste Swing: Is a virtual wine library with notes to your preferences in taste. It is in the process of being developed into a social interface for connecting wine taste among friends and local events in vineyards or even a house party.
 
-![Typo International](assets/img/work/proj-1/img2.jpg)
-![Typo International](assets/img/work/proj-1/img3.jpg)
-![Typo International](assets/img/work/proj-1/img4.jpg)
-![Typo International](assets/img/work/proj-1/img5.jpg)
+![Taste Swing](assets/img/work/proj-1/img2.jpg)

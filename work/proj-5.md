@@ -1,5 +1,6 @@
 ---
-title: Fresh It Up
+title: Oil Paintings
 ---
 
-![Fresh It Up](assets/img/work/proj-5/freshitup-JieyuXiong.jpg)
+![Oil Paintings](assets/img/work/proj-5/thumb.jpg)
+![Oil Paintings](assets/img/work/proj-5/img1.jpg)

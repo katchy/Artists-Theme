@@ -1,5 +1,5 @@
 ---
-title: Flat Mobile UI/UX Concept
+title: Kuik Contacts
 ---
 
-![Flat Mobile UI/UX Concept](assets/img/work/proj-4/flatmobile-AyoubElred.jpg)
+![Kuik Contacts](assets/img/work/proj-4/img1.jpg)

@@ -1,9 +1,9 @@
 #-------------------------------
 # General Site Settings
 
-title: Artists Theme
-description: Thinker // Designer // YouTuber
-email: devtipsfordesigners@gmail.com
+title: My Notes
+description: Creative designer // Quality freak // Idea bubble machine
+email: priya.thanya@gmail.com
 
 # NOTE: The Logo and Background image are defined in the all.sass document.
 
@@ -20,8 +20,8 @@ menu:
 
 seo:
   description: 'Provide a description for your website to make it visible to search engines.'
-  rel-author: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
-  rel-publisher: 'https://plus.google.com/u/0/+DevTipsForDesigners/'
+  rel-author: 'https://ca.linkedin.com/in/priyathanya'
+  rel-publisher: 'https://ca.linkedin.com/in/priyathanya'
 
 #-------------------------------
 # Google Analytics Section
@@ -39,34 +39,33 @@ seo:
 # NOTE: The avatar is defined in the all.sass document.
 
 blurb: >
-  **Travis specializes in making things** for human people.
-  Most of the things he makes are [digital interfaces](http://travisneilson.com){:target="_blank"},
-  but he also puts effort into crafting [next-level beats](http://soundcloud.com/travis-neilson){:target="_blank"}
-  and [YouTube videos](http://youtube.com/user/devtipsfordesigners){:target="_blank"} about making codes happen.
-
+  **Priya is a curious beast** for knowledge.
+  She defines a unique flavor to her [web interfaces](https://github.com/katchy){:target="_blank"},
+  Her virtue for the essence of a product, allows for timely completion of projects along with adding a tinge of [spice](https://www.pinterest.com/pramanath/){:target="_blank"} to her crafting. 
 
 skills:
-- {name: Communication, value: '9'}
-- {name: Organization, value: '7'}
+- {name: Communication, value: '8'}
+- {name: Organization, value: '9'}
 - {name: Learning, value: '10'}
-- {name: Teaching, value: '6'}
 - {name: Planning, value: '7'}
-- {name: Visual Design, value: '5'}
+- {name: Visual Design, value: '10'}
 - {name: UX Design, value: '8'}
-- {name: Programming, value: '6'}
+- {name: Programming, value: '7'}
+- {name: Testing, value: '6'}
+
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: TYPO International Design Talks, folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: City-IN website concept, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Crispy Icons, folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Flat Mobile UI/UX Concept, folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Fresh It Up, folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Timeline Page, folder: 'proj-6', file: 'work/proj-6.html'}
-- {name: Weather Dashboard, folder: 'proj-7', file: 'work/proj-7.html'}
-- {name: Stripes & Co, folder: 'proj-8', file: 'work/proj-8.html'}
+- {name: Taste Swing - Virtual wine library, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Lhl Poll Position, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: Disney Delicacy, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: Kuik Contacts, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: Oil Paintings, folder: 'proj-5', file: 'work/proj-4.html'}
+- {name: Sketches, folder: 'proj-6', file: 'work/proj-4.html'}
+- {name: Pottery, folder: 'proj-7', file: 'work/proj-4.html'}
+
 
 
 
@@ -74,38 +73,37 @@ projects:
 #-------------------------------
 # Clients Section
 
-clients:
-- {avatar: 'face-aaroni.jpg',
-  name: 'Scott Summers',
-  title: 'Director of Design, OnToText Ind.',
-  quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
-  logo: 'logo1.png'}
-- {avatar: 'face-atariboy.jpg',
-  name: 'Hank McCoy',
-  title: 'Eater of Salad, Antartica Int.',
-  quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
-  logo: 'logo2.png'}
-- {avatar: 'face-jackiesaik.jpg',
-  name: 'Stacy Lang',
-  title: 'Social Media Girl, Quebec Int.',
-  quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
-  logo: 'logo3.png'}
-- {avatar: 'face-teleject.jpg',
-  name: 'Cleatus Cassidy',
-  title: 'VP of Helmut, Lorem Sorem LLC.',
-  quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
-  logo: 'logo4.png'}
+# clients:
+# - {avatar: 'face-aaroni.jpg',
+#   name: 'Scott Summers',
+#   title: 'Director of Design, OnToText Ind.',
+#   quote: '<p><strong>While we all felt that Travis was a great</strong> asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often.</p>',
+#   logo: 'logo1.png'}
+# - {avatar: 'face-atariboy.jpg',
+#   name: 'Hank McCoy',
+#   title: 'Eater of Salad, Antartica Int.',
+#   quote: '<p><strong>Working with Travis was the highlight of my career.</strong> Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying "uh huh, and then what?" 30 times in a row to my girlfriend without her noticing.</p>',
+#   logo: 'logo2.png'}
+# - {avatar: 'face-jackiesaik.jpg',
+#   name: 'Stacy Lang',
+#   title: 'Social Media Girl, Quebec Int.',
+#   quote: '<p><strong>Yea, I guess hes good at computers or something,</strong> but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?</p>',
+#   logo: 'logo3.png'}
+# - {avatar: 'face-teleject.jpg',
+#   name: 'Cleatus Cassidy',
+#   title: 'VP of Helmut, Lorem Sorem LLC.',
+#   quote: '<p><strong>Back in old country</strong> only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework.</p>',
+#   logo: 'logo4.png'}
 
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: 'http://twitter.com/devtipsshow'}
-- {icon: 'dribbble', link: 'https://dribbble.com/travisneilson'}
-- {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
-- {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
-- {icon: 'linkedin', link: 'http://www.linkedin.com/in/travisneilson/'}
+- {icon: 'pinterest', link: 'https://www.pinterest.com/pramanath'}
+- {icon: 'facebook', link: 'https://www.facebook.com/priyathanya.ramanath'}
+- {icon: 'github', link: 'https://github.com/katchy'}
+- {icon: 'linkedin', link: 'https://ca.linkedin.com/in/priyathanya'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

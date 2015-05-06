@@ -1,5 +1,5 @@
 ---
-title: Crispy Icons
+title: Disney Delicacy
 ---
 
-![Crispy Icons](assets/img/work/proj-3/CrispyIcons-PetrasNargela.jpg)
+![Disney Delicacy](assets/img/work/proj-3/img1.jpg)
